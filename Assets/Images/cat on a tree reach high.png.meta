@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: c351c19201b616b4aa3a3d2713408f0f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: cat on a tree reach high_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1540
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_2
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1540
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_3
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1540
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1032
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_6
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1032
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_7
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1032
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 524
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cat on a tree reach high_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 524
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

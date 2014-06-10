@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: aa7600126d695324fabda9a5f72a58ed
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: bark sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 477
+        height: 299
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1696
+        width: 502
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1696
+        width: 502
+        height: 352
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1696
+        width: 504
+        height: 343
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1341
+        width: 501
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1341
+        width: 502
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1341
+        width: 502
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1341
+        width: 503
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 504
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 983
+        width: 502
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 983
+        width: 502
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 983
+        width: 502
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 501
+        height: 341
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 624
+        width: 502
+        height: 341
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 625
+        width: 505
+        height: 340
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: bark sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 624
+        width: 473
+        height: 288
+      alignment: 6
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 70eb042356b34a548ac4132fae20caad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: crouch sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3798
+        width: 456
+        height: 298
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3798
+        width: 436
+        height: 247
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3792
+        width: 420
+        height: 254
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 3798
+        width: 420
+        height: 224
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3502
+        width: 430
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3502
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3502
+        width: 420
+        height: 152
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 3502
+        width: 420
+        height: 152
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3210
+        width: 430
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3210
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3210
+        width: 424
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 3210
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2914
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2914
+        width: 430
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2914
+        width: 420
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2914
+        width: 420
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2618
+        width: 428
+        height: 150
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2618
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2618
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2618
+        width: 428
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2322
+        width: 424
+        height: 148
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2327
+        width: 462
+        height: 143
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2325
+        width: 456
+        height: 149
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2322
+        width: 420
+        height: 152
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2030
+        width: 420
+        height: 231
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2031
+        width: 452
+        height: 293
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2032
+        width: 456
+        height: 293
+      alignment: 6
+      pivot: {x: 0, y: 0}
+    - name: crouch sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2032
+        width: 446
+        height: 276
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: crouch sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1736
+        width: 448
+        height: 278
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
